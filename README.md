@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Khalil+Hasnawi;Applied+AI+student+%7C+Healthcare+AI;Machine+learning+in+Python" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Khalil+Hasnawi;Data+Science+%26+Machine+Learning;Healthcare+AI+%7C+Python+%7C+PyTorch" alt="Typing intro" />
 
 <p>
 <a href="https://www.linkedin.com/in/khalil-hasnawi-7721252ba/"><img src="https://img.shields.io/badge/LinkedIn-Khalil_Hasnawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
